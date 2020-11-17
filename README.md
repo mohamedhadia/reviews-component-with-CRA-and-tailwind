@@ -1,3 +1,5 @@
+## live version : https://reviews-component-with-cra-and-tailwind.vercel.app/
+
 ## as always :
 
 `clone` > `npm install`
